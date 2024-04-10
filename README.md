@@ -50,7 +50,7 @@ In this application we will use a relational database (SQL). For development env
 
 ### Diagram ERD
 
-<img src="./devsupport/erd.svg" width="600" alt="Diagrama ERD do banco de dados" />
+<img src="./.github/erd.svg" width="600" alt="Diagrama ERD do banco de dados" />
 
 ### Database structure (SQL)
 

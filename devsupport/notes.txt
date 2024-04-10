@@ -1,0 +1,8 @@
+install dependencies:   
+    npm install
+
+!! using sqlite as database, no need to install any database(for test purpose) !!
+
+run: npx prisma db seed (to seed the database)
+
+run: npm run dev
